@@ -1,2 +1,1 @@
-# kcis-java
-2015
+# Programming Club
